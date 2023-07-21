@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Akinator Game</title>
+</head>
+<body>
+    <h1>Akinator's Question</h1>
+    <p>{{ q }}</p>
+    <form action="/start" method="post">
+        <input type="radio" name="character_name" value="yes" id="yes">
+        <label for="yes">Yes</label>
+        <input type="radio" name="character_name" value="no" id="no">
+        <label for="no">No</label>
+         <input type="radio" name="character_name" value="i" id="dk">
+        <label for="dk">Dont Know</label>
+         <input type="radio" name="character_name" value="p" id="p">
+        <label for="p">probably</label>
+        <input type="radio" name="character_name" value="pn" id="pn">
+        <label for="pn">probably not</label>
+        <input type="submit" value="Submit">
+    </form>
+</body>
+</html>
