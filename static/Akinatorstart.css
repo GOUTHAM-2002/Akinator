@@ -1,0 +1,25 @@
+body{
+    background-image:url(https://i.pinimg.com/1200x/67/3b/d7/673bd7696cd396f0171114b5e423d0e7.jpg);
+    background-size:cover;
+    background-repeat: no-repeat;
+}
+
+
+div{
+    background-image:none;
+    background-color:rgba(241, 16, 54,1);
+    font-size: 45px;
+    font-weight: 700;
+    text-align: center;
+    color:aqua;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+   
+    
+}
+input{
+    margin-left: 700px;
+    font-size: large;
+    background-color: rgb(241, 16, 54);
+    background-image: none;
+    color:blue;
+}
