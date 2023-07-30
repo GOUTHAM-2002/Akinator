@@ -1,0 +1,18 @@
+body{
+    background-image: url(https://www.clipartmax.com/png/middle/87-873210_akinator-with-transparent-background.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+
+
+
+h1{
+    text-align:center;
+    background-image: none;
+    background-color: rgb(20, 211, 58);
+    color:rgb(7, 144, 249);
+    font-size: 50px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin-top: 25px;
+}
