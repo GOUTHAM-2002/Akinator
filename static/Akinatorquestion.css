@@ -1,0 +1,73 @@
+*{
+    background-image:url(https://download.logo.wine/logo/Akinator/Akinator-Logo.wine.png);
+    
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+    
+    
+}
+h1{
+    text-align:center;
+    background-image: none;
+    background-color: rgb(211, 20, 20);
+    color:rgb(29, 140, 225);
+    font-size: 35px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin-top: 25px;
+}
+p{
+    font-size: 45px;
+    background-color:pink;
+    background-image: none;
+    color:green;
+    font-weight: 800;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-bottom: 25px;
+
+}
+div{
+    font-size: 45px;
+    font-weight: 700;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: rgb(168, 50, 68);
+    background-image: none;
+}
+#one{
+    background-color: orange;
+    background-image: none;
+    color:rgb(164, 50, 168);
+    display:inline-block;
+}
+#two{
+    background-color:rgb(133, 168, 50);
+    background-image: none;
+    color:rgb(77, 66, 158);
+    display:inline-block;
+}
+#three{
+    background-color:rgb(181, 47, 170);
+    background-image: none;
+    color:rgb(134, 184, 48);
+    display:inline-block;
+}
+#four{
+    background-color:rgb(181, 147, 170);
+    background-image: none;
+    color:rgb(204, 24, 54);
+    display:inline-block;
+}
+#five{
+    background-color:rgb(204, 24, 54);
+    background-image: none;
+    color:rgb(232, 247, 22);
+    display:inline-block;
+}
+.submit{
+    display:inline-block;
+    margin-left: 700px;
+    font-size: large;
+    background-color: blue;
+    background-image: none;
+    color:yellow;
+}
